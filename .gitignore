@@ -1,10 +1,2 @@
-/.DS_Store
-/.idea
+.DS_Store
 /.vscode
-/heapsort.go
-/list.go
-/main.go
-/max_coins.go
-/split.go
-/tree
-/tree.go
